@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ctKhRLas8kQ=",
+  "dgSpecHash": "UqNKUmdSiA4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\leona\\Downloads\\GestionInventario\\GestionInventario\\GestionInventario.csproj",
+  "projectFilePath": "c:\\Users\\leona\\Downloads\\GestionInventario\\GestionInventario\\GestionInventario.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leona\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\leona\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

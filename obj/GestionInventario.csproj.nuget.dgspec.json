@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leona\\Downloads\\GestionInventario\\GestionInventario\\GestionInventario.csproj": {}
+    "c:\\Users\\leona\\Downloads\\GestionInventario\\GestionInventario\\GestionInventario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leona\\Downloads\\GestionInventario\\GestionInventario\\GestionInventario.csproj": {
+    "c:\\Users\\leona\\Downloads\\GestionInventario\\GestionInventario\\GestionInventario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leona\\Downloads\\GestionInventario\\GestionInventario\\GestionInventario.csproj",
+        "projectUniqueName": "c:\\Users\\leona\\Downloads\\GestionInventario\\GestionInventario\\GestionInventario.csproj",
         "projectName": "GestionInventario",
-        "projectPath": "C:\\Users\\leona\\Downloads\\GestionInventario\\GestionInventario\\GestionInventario.csproj",
+        "projectPath": "c:\\Users\\leona\\Downloads\\GestionInventario\\GestionInventario\\GestionInventario.csproj",
         "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leona\\Downloads\\GestionInventario\\GestionInventario\\obj\\",
+        "outputPath": "c:\\Users\\leona\\Downloads\\GestionInventario\\GestionInventario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config"
